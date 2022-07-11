@@ -3,7 +3,7 @@ import { GlobalStyle } from "./styles/GlobalStyles";
 import { ListOfCategories } from "./components/ListOfCategories";
 import { ListOfPhotocards } from "./components/ListOfPhotocards";
 import { Logo } from "./components/Logo";
-import { PhotocardWithQuery } from "./container/PhotoCardWithQuery";
+import { PhotocardWithQuery } from "./container/PhotocardWithQuery";
 import { FormAdd } from "./container/FormAdd";
 
 export const App = () => {
